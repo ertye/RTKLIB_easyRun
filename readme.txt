@@ -1,3 +1,9 @@
+We can use WSL to make \app\consapp,
+such as in \app\consapp\rnx2rtkp\gcc, directly input 'make', then we can get bin in gcc.
+(we can delete '-lgfortran' in makefile)
+
+
+
 RTKLIB-EX (previously RTKLIB demo5): A version of RTKLIB optimized for low cost GNSS receivers (single, dual, or triple frequency), especially u-blox receivers and based on RTKLIB 2.4.3. This software is provided “AS IS” without any warranties of any kind so please be careful, especially if using it in any kind of real-time application. 
 
 Releases and pre-releases for Windows executables are available at https://github.com/rtklibexplorer/RTKLIB/releases 
